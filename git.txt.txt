@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git is a distributed version control system computer.
+=======
+git is a distributed version control computer system is best.
+>>>>>>> 130fede879150e0f7f25c06182ca6072cc47f247
